@@ -11,5 +11,6 @@ It has Basically 5 Folders:
       
   3. PageObject: I have saperated all the elements in Different Folder and class and reusing it in my test
   4. Drivers: Usually it has the driver but I am using different one, located on my local. Ideally it should be within the project itself
-  5. **NOTE: NEED TO UPDATE DRIVER PATH STRING INSIDE ABSTRACT CLASS**
-  6. Dependencies: It has all the Selenium NuGet packages
+  5. Dependencies: It has all the Selenium NuGet packages
+
+ **NOTE: NEED TO UPDATE driverpath STRING INSIDE ABSTRACT.CS CLASS**
