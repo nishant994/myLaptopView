@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ViewItems.Utility
 {
-	// ################################## This Class contains all the cutomized actions line Click, Enter text .... ###################################
+	// ################################## This Class contains all the cutomized actions like Click, Enter text .... ###################################
     public class ReusableActions
     {
 
