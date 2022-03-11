@@ -1,4 +1,4 @@
-# myLaptopView
+# Code Overview and Framework Explanations
 This is an automated Selenium code written in C#, .Net framework using NUbit framework
 It has Basically 5 Folders:
 
