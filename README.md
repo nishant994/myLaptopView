@@ -9,8 +9,8 @@ It has Basically 5 Folders:
       
          b. ReusableActions: It has all the customized functions like, click, Enter text, Dynamic wait and all
       
-  3. PageObject: I have saperated all the elements in Different Folder and class and reusing it in my test
-  4. Drivers: Usually it has the driver but I am using different one, located on my local. Ideally it should be within the project itself
+  3. PageObject: All the elements have been saperated in different Folder within a class so that can be easy reusability and maintainance
+  4. Drivers: Usually it has the driver but the code uses different one, located on  local. Ideally it should be within the project itself
   5. Dependencies: It has all the Selenium NuGet packages
 
  **NOTE: NEED TO UPDATE _driverpath_ STRING INSIDE ABSTRACT.CS CLASS**
